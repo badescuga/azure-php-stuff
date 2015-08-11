@@ -28,8 +28,8 @@ $email->addTo('bob@example.com')
 
 try {
     $response = $sendgrid->send($email);
-    // Show response body
-    echo $response->raw_body;
+    // Uncomment to show response body 
+    // echo $response->raw_body; 
 } catch(\SendGrid\Exception $e) {
     echo $e->getCode() . "\n";
     foreach($e->getErrors() as $er) {
