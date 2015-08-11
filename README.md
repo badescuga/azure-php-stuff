@@ -1,6 +1,8 @@
 # azure-php-stuff
 
-here are some scripts for working with php under azure. The collection is expanding.
+![AzureBanner](//github.com/badescuga/azure-php-stuff/banner.png)
+
+Here are some scripts for working with PHP under Azure Web Apps. The collection is expanding.
 
 - defaultToLoad.php / *default code for error handling & debugging*
 - user.ini / *default user.ini for php usage under azure*
