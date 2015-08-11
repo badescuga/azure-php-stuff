@@ -1,6 +1,6 @@
 # azure-php-stuff
 
-![AzureBanner](//github.com/badescuga/azure-php-stuff/banner.png)
+![AzureBanner](https://github.com/badescuga/azure-php-stuff/banner.png)
 
 Here are some scripts for working with PHP under Azure Web Apps. The collection is expanding.
 
