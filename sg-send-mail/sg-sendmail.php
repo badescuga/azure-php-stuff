@@ -3,7 +3,7 @@
 // Require SendGrid PHP Library
 // Download from https://github.com/sendgrid/smtpapi-php
 
-require("/sendgrid-php/sendgrid-php.php");
+require("sendgrid-php/sendgrid-php.php");
 
 // SendGrid API key
 // About API keys: https://sendgrid.com/docs/Classroom/Send/api_keys.html
