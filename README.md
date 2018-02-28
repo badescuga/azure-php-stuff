@@ -2,7 +2,7 @@
 
 ![AzureBanner](https://github.com/badescuga/azure-php-stuff/raw/master/banner.png)
 
-####Code samples for working with PHP under Azure Web Apps. The collection is expanding.####
+#### Code samples for working with PHP under Azure Web Apps. The collection is expanding.
 
 - `defaultToLoad.php` / *default code for error handling & debugging*
 - `.user.ini` / See https://azure.microsoft.com/en-us/documentation/articles/web-sites-php-configure/
